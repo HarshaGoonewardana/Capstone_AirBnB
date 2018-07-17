@@ -1,5 +1,6 @@
-# Ignore all large data files in the data folder 
-/data/*
+# Ignore all large data files in the data folder
+/data/airbnb_nyc.csv
+
 
 
 # Byte-compiled / optimized / DLL files
